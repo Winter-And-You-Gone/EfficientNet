@@ -1,0 +1,10 @@
+1.JPG   Soybean_healthy
+2.JPG   Tomato_Septoria_leaf_spot
+3.JPG   Blueberry_healthy
+4.JPG   Apple_Black_rot
+5.JPG   Apple_scab
+6.JPG   Grape_Black_rot
+7.JPG   Potato_Late_blight
+8.JPG   Potato_Early_blight
+9.JPG   Cherry_Powdery_mildew
+10.JPG   Corn_Common_rust
